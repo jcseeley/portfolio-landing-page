@@ -1,6 +1,6 @@
 .header {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 2%;
 }
 
 body {
@@ -15,14 +15,17 @@ body {
 .col-12 {
   font-size: large;
   text-align: left;
-  padding: 5%;
+  padding: 1%;
+  border-style: solid;
+  margin-bottom: 5%;
+  margin-top: 5%;
 }
 
 .img-fluid {
   max-width: 33%;
-  max-height: 500px;
+  max-height: 400px;
   margin-left: 5%;
-  margin-right: 20px;
+  margin-right: 5%;
   padding: 2px;
   border-style: solid;
   float: left;
@@ -31,19 +34,28 @@ body {
 .about {
   text-align: left;
   font-size: large;
-  padding-bottom: 100px;
+  margin-bottom: 5%;
 }
 
 .highlights {
   background-color: rgb(255, 0, 0);
 }
 
-.col-4 {
+h2 {
   text-align: center;
+  text-decoration: underline;
+}
+.col-4 {
+  text-align: left;
   font-size: large;
-  padding-top:100px;
 }
 
-.interests {
-  
+h3 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+h4 {
+  text-decoration: underline;
+  text-align: center;
 }
