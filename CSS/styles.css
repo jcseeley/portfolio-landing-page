@@ -16,3 +16,7 @@ h1 {
   max-height: 350px;
   margin: 10px;
 }
+
+.highlights {
+  background-color: rgb(255, 0, 0);
+}
