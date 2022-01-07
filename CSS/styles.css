@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+#me {
+  max-width: fit-content;
+  max-height: 300px;
+}
+
+.col-6 {
+  font-size: medium;
+  text-align: left;
+}
