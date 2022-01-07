@@ -1,5 +1,6 @@
-h1 {
+.header {
   text-align: center;
+  margin-top: 20px;
 }
 
 body {
@@ -11,42 +12,38 @@ body {
   text-decoration: underline;
 }
 
-.col-6 {
-  font-size: medium;
+.col-12 {
+  font-size: large;
   text-align: left;
   padding: 5%;
 }
 
-#me {
-  max-width: fit-content;
-  max-height: 425px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.img-fluid {
+  max-width: 33%;
+  max-height: 500px;
+  margin-left: 5%;
+  margin-right: 20px;
+  padding: 2px;
   border-style: solid;
+  float: left;
 }
 
 .about {
-  border-style: solid;
-  margin-left: 15%;
-  margin-top: 5%;
-  padding: 5px;
+  text-align: left;
   font-size: large;
-  font-family: sans-serif;
-  float: left;
+  padding-bottom: 100px;
 }
+
 .highlights {
   background-color: rgb(255, 0, 0);
 }
 
-.background {
-  text-align: left;
-  border-style: solid;
-  margin-right: 15%;
-  margin-top: 5%;
-  padding: 5px;
+.col-4 {
+  text-align: center;
   font-size: large;
-  font-family: sans-serif;
-  float: right;
+  padding-top:100px;
+}
 
+.interests {
+  
 }
