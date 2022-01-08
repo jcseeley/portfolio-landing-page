@@ -24,7 +24,7 @@ body {
 .img-fluid {
   max-width: 33%;
   max-height: 400px;
-  margin-left: 5%;
+  margin-left: 10%;
   margin-right: 5%;
   padding: 2px;
   border-style: solid;
@@ -45,6 +45,7 @@ h2 {
   text-align: center;
   text-decoration: underline;
 }
+
 .col-4 {
   text-align: left;
   font-size: large;
