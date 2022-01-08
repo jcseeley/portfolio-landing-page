@@ -16,6 +16,7 @@ This page was created to showcase a portfolio of my projects as well as some inf
 
 ## Setup/Installation Requirements
  
+* Visit https://jcseeley.github.io
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
 * Open the index.html file in your browser.
