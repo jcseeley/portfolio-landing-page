@@ -4,8 +4,10 @@
 }
 
 body {
-  background-color: rgb(255, 78, 58);
-  font-weight: bold;
+  background-color: black;
+  font-style: oblique;
+  color: red;
+  font-weight: 500;
 }
 
 #projects {
@@ -18,13 +20,14 @@ body {
   text-align: left;
   padding: 1%;
   border-style: solid;
-  margin-bottom: 5%;
   margin-top: 5%;
+  margin-bottom: 3%;
 }
 
-.img-fluid {
+#me {
   max-width: 33%;
   max-height: 400px;
+  margin-top: 5%;
   margin-left: 10%;
   margin-right: 5%;
   padding: 2px;
@@ -35,11 +38,13 @@ body {
 .about {
   text-align: left;
   font-size: large;
+  margin-top: 5%;
   margin-bottom: 5%;
 }
 
 .highlights {
-  background-color: rgb(255, 0, 0);
+  color: black;
+  background-color: red;
 }
 
 h2 {
@@ -47,9 +52,13 @@ h2 {
   text-decoration: underline;
 }
 
+.hobbies {
+  margin-bottom: 5%;
+}
+
 .col-4 {
   text-align: left;
-  font-size: large;
+  font-size: medium;
 }
 
 h3 {
@@ -59,5 +68,5 @@ h3 {
 
 h4 {
   text-decoration: underline;
-  text-align: center;
+  text-align: left;
 }
