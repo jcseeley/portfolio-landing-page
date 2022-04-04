@@ -2,7 +2,8 @@
 
 #### By Jase Seeley
 
-#### About Me page with a collection of projects 
+#### Epicodus Week #1 Independent Code Review: Git, HTML, & CSS  
+* About Me page with a collection of projects 
 
 ## Technologies Used
 
